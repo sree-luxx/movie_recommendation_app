@@ -3,13 +3,13 @@
 
 
 ---
-#Home Page
+# Home Page
 <img width="1917" height="837" alt="Screenshot 2026-10-03 123628" src="https://github.com/user-attachments/assets/76945d3a-a372-4f15-943d-27073dd85d12" />
 
-#Movie List Page
+# Movie List Page
 <img width="1916" height="835" alt="Screenshot 2026-10-03 123702" src="https://github.com/user-attachments/assets/5b8892d7-0941-4ef6-a5e4-c264c148fb02" />
 
-#Seat Booking page
+# Seat Booking page
 <img width="1905" height="817" alt="Screenshot 2026-10-03 123647" src="https://github.com/user-attachments/assets/6ba02428-2b14-491f-a9f5-9c1a5c042b93" />
 
 # QuickShow — Movie Ticket Booking Platform
