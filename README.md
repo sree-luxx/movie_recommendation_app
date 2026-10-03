@@ -1,6 +1,6 @@
 # QuickShow Movie App
 
-> The main application package. For the full project overview, see the [top-level README](../README.md).
+
 
 ---
 <img width="1917" height="837" alt="Screenshot 2026-10-03 123628" src="https://github.com/user-attachments/assets/76945d3a-a372-4f15-943d-27073dd85d12" />
@@ -14,9 +14,6 @@
 ```bash
 npm install
 npm run dev
-```
-
-Then open **http://localhost:5173**.
 
 ---
 
